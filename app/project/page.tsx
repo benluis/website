@@ -36,7 +36,7 @@ export default function Projects() {
                 </div>
             </div>
 
-            {/* Main Content Container with top padding to avoid header overlap */}
+            {/* Main Content */}
             <main className="mx-auto max-w-3xl px-4 pt-24 sm:px-6 xl:max-w-5xl xl:px-0">
                 {/* Header for Projects Section */}
                 <div className="space-y-2 pt-6 pb-4 md:space-y-5">
