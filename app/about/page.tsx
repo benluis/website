@@ -114,20 +114,11 @@ export default function AboutPage() {
                             <span className="rounded-sm bg-blue-500 px-2 py-1 text-xs font-medium text-white">
                                 TypeScript
                             </span>
-                            <span className="rounded-sm bg-yellow-500 px-2 py-1 text-xs font-medium text-white">
-                                Go
-                            </span>
                             <span className="rounded-sm bg-green-500 px-2 py-1 text-xs font-medium text-white">
                                 Python
                             </span>
                             <span className="rounded-sm bg-purple-600 px-2 py-1 text-xs font-medium text-white">
                                 Docker
-                            </span>
-                            <span className="rounded-sm bg-red-500 px-2 py-1 text-xs font-medium text-white">
-                                Redis
-                            </span>
-                            <span className="rounded-sm bg-gray-800 px-2 py-1 text-xs font-medium text-white">
-                                AWS
                             </span>
                             <span className="rounded-sm bg-blue-500 px-2 py-1 text-xs font-medium text-white">
                                 Java
@@ -153,11 +144,8 @@ export default function AboutPage() {
                             <span className="rounded-sm bg-blue-500 px-2 py-1 text-xs font-medium text-white">
                                 Blender
                             </span>
-                            <span className="rounded-sm bg-purple-600 px-2 py-1 text-xs font-medium text-white">
-                                VS Code
-                            </span>
                             <span className="rounded-sm bg-red-500 px-2 py-1 text-xs font-medium text-white">
-                                Visual Studio
+                                Visual Studio Code
                             </span>
                             <span className="rounded-sm bg-green-500 px-2 py-1 text-xs font-medium text-white">
                                 PyCharm
